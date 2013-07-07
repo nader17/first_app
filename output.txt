@@ -1,0 +1,79 @@
+.
+|-- Gemfile
+|-- Gemfile.lock
+|-- Gemfile.orig
+|-- README.rdoc
+|-- Rakefile
+|-- app
+|   |-- assets
+|   |   |-- images
+|   |   |   `-- rails.png
+|   |   |-- javascripts
+|   |   |   `-- application.js
+|   |   `-- stylesheets
+|   |       `-- application.css
+|   |-- controllers
+|   |   `-- application_controller.rb
+|   |-- helpers
+|   |   `-- application_helper.rb
+|   |-- mailers
+|   |-- models
+|   `-- views
+|       `-- layouts
+|           `-- application.html.erb
+|-- config
+|   |-- application.rb
+|   |-- boot.rb
+|   |-- database.yml
+|   |-- environment.rb
+|   |-- environments
+|   |   |-- development.rb
+|   |   |-- production.rb
+|   |   `-- test.rb
+|   |-- initializers
+|   |   |-- backtrace_silencers.rb
+|   |   |-- inflections.rb
+|   |   |-- mime_types.rb
+|   |   |-- secret_token.rb
+|   |   |-- session_store.rb
+|   |   `-- wrap_parameters.rb
+|   |-- locales
+|   |   `-- en.yml
+|   `-- routes.rb
+|-- config.ru
+|-- db
+|   `-- seeds.rb
+|-- doc
+|   `-- README_FOR_APP
+|-- lib
+|   |-- assets
+|   `-- tasks
+|-- log
+|-- output.txt
+|-- public
+|   |-- 404.html
+|   |-- 422.html
+|   |-- 500.html
+|   |-- favicon.ico
+|   |-- index.html
+|   `-- robots.txt
+|-- script
+|   `-- rails
+|-- test
+|   |-- fixtures
+|   |-- functional
+|   |-- integration
+|   |-- performance
+|   |   `-- browsing_test.rb
+|   |-- test_helper.rb
+|   `-- unit
+|-- tmp
+|   `-- cache
+|       `-- assets
+`-- vendor
+    |-- assets
+    |   |-- javascripts
+    |   `-- stylesheets
+    `-- plugins
+
+37 directories, 39 files
